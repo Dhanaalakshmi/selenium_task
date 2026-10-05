@@ -83,5 +83,6 @@ finally:
     driver.quit()
 ```
 
+
 ## Output:
 <img width="1797" height="997" alt="Screenshot 2026-10-05 114940" src="https://github.com/user-attachments/assets/63c7f157-f601-495c-aecf-471d5f39fcab" />
