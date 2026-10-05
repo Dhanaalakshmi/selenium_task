@@ -84,7 +84,7 @@ finally:
     driver.quit()
 ```
 ## Output:
-<img width="1822" height="907" alt="Screenshot 2026-10-05 111448" src="https://github.com/user-attachments/assets/fdee90bd-ea89-4287-b2b1-26cb0809b643" />
+<img width="1797" height="997" alt="Screenshot 2026-10-05 114940" src="https://github.com/user-attachments/assets/6e8fbc2a-a980-4907-abe2-951b5174d118" />
 
 ## Task 03: Login to Flipkart:
 ## Code:
