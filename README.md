@@ -22,8 +22,8 @@ driver.quit()
 ## Output:
 <img width="1816" height="1005" alt="image" src="https://github.com/user-attachments/assets/91112c31-d12b-48b7-a81d-18a4a7185433" />
 
-## Task 01: Product list check:
-## Code;
+## Task 02: Product list check:
+## Code:
 ```
 import time
 from selenium import webdriver
@@ -86,5 +86,7 @@ finally:
 ## Output:
 <img width="1822" height="907" alt="Screenshot 2026-10-05 111448" src="https://github.com/user-attachments/assets/fdee90bd-ea89-4287-b2b1-26cb0809b643" />
 
-
+## Task 03: Login to Flipkart:
+## Code:
+```
 
